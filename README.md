@@ -111,7 +111,7 @@
   <a href="mailto:sujeet1904@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
-  <a href="https://www.instagram.com/sujeet_1904/)">
+  <a href="https://www.instagram.com/sujeet_1904">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
